@@ -36,7 +36,7 @@
 
 ### 📈 Contest Statistics
 
-- **Current Rating**: **1514**
+- **Highest Rating**: **1675**
 - **Best Ranks**:  
   - 🥇 766 / 36767  
   - 🥈 1343 / 34231  
