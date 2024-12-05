@@ -48,13 +48,6 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/NonCSCoderIN?theme=light&font=baloo&ext=contest)
 
-
-####
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=yashodipmore.yashodipmore&"  />
-</div>
-
 ###
 
 <h1 align="center">hey there 👋</h1>
