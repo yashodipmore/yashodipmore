@@ -48,28 +48,6 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/NonCSCoderIN?theme=light&font=baloo&ext=contest)
 
----
-
-### 📝 About Me
-
-- I enjoy solving challenging problems on LeetCode.
-- Check out my **[GitHub Solutions Repo](https://github.com/<your-github-username>/leetcode-solutions)** for problem write-ups.
-
-
-
-###
-
-<div style='display:flex; align-items:center; gap: 10px;' align='center'>
-<img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/6.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/7.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/8.png" width="100px" height="100px" />
-</div>
 
 ####
 
