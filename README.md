@@ -12,7 +12,50 @@
   <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
 </div>
 
-<img src="https://leetcode-badge-showcase.vercel.app/api?username={NonCSCoderIN}&animated=true" alt="LeetCode Badges"/>
+## 🏆 My LeetCode Achievements
+
+🎯 **LeetCode Profile**: [NonCSCoderIN](https://leetcode.com/u/NonCSCoderIN/)
+
+---
+
+### 🚀 LeetCode Badges (Automatic Carousel)
+
+[![LeetCode Badges](https://leetcode-badge-carousel.vercel.app/api?username=NonCSCoderIN)](https://leetcode.com/u/NonCSCoderIN/)
+
+---
+
+### 📊 Problem Solving Stats
+
+| Difficulty | Problems Solved |  
+|------------|-----------------|  
+| 🟢 Easy    | **200+**        |  
+| 🟡 Medium  | **300+**        |  
+| 🔴 Hard    | **100+**        |
+
+---
+
+### 📈 Contest Statistics
+
+- **Current Rating**: **1514**
+- **Best Ranks**:  
+  - 🥇 766 / 36767  
+  - 🥈 1343 / 34231  
+- **Longest Streak**: **200+ Days**
+
+---
+
+### 📦 Dynamic Stats Widget
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/NonCSCoderIN?theme=light&font=baloo&ext=contest)
+
+---
+
+### 📝 About Me
+
+- I enjoy solving challenging problems on LeetCode.
+- Check out my **[GitHub Solutions Repo](https://github.com/<your-github-username>/leetcode-solutions)** for problem write-ups.
+
+
 
 ###
 
