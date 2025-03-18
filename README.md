@@ -15,13 +15,15 @@
 🏆 **800+ DSA Problems Solved** across LeetCode, GeeksforGeeks, and HackerRank  
 🎯 **LeetCode Max Rating: 1700+** | **Global Rank: 1343/34,000+ in Weekly Contest**  
 👨‍💻 **Actively Contributing to Open-Source Projects**  
+🌱 Currently Learning **System Design & Advanced DSA**  
+📫 Reach me at **yashodipmore2004@gmail.com**
 
 ---
 
 ## 🔥 Tech Stack & Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,cpp,python,javascript,html,css,bootstrap,tailwind,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,c,cpp,python,javascript,html,css,bootstrap,tailwind,react,nodejs,express,mysql,mongodb,git,github,vscode,linux,postman,docker" />
 </p>
 
 ---
@@ -31,6 +33,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yashodipmore&show_icons=true&theme=radical" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashodipmore&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yashodipmore&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yashodipmore&theme=radical" />
 </p>
 
 ---
@@ -50,9 +54,11 @@
 
 ## 🚀 My Projects
 
-🔹 [**Algorithm Visualizer**](https://github.com/yashodipmore/Algorithm-Explorer) - A web app for visualizing sorting algorithms with real-time tracking.
-🔹 [**DeeFace Recognizer**](https://github.com/yashodipmore/FaceRecognitionSystem) - A real-time face recognition system using deep learning.
-🔹 [**Notepad**](https://github.com/yashodipmore/Notepad---NonCSCoder) - A functional text editor with an intuitive UI built using Java Swing.
+📌 [**Algorithm Visualizer**](https://github.com/yashodipmore/Algorithm-Explorer) - A web app for visualizing sorting algorithms with real-time tracking.  
+📌 [**DeeFace Recognizer**](https://github.com/yashodipmore/FaceRecognitionSystem) - A real-time face recognition system using deep learning.  
+📌 [**Notepad**](https://github.com/yashodipmore/Notepad---NonCSCoder) - A functional text editor with an intuitive UI built using Java Swing.  
+📌 [**MemoryAlloc**](https://github.com/yashodipmore/MemoryAlloc) - Custom Linux Heap Memory Manager written in C.  
+📌 [**Eduward**](https://github.com/yashodipmore/eduward) - A comprehensive e-learning platform with AI-powered features.
 
 ---
 
@@ -61,6 +67,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/yashodipmore22"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/yashodipmore"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:yashodipmore2004@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
