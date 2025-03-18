@@ -1,5 +1,9 @@
 ### Hi there, I'm Yashodip More! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
+<p align="center">
+  <img src="https://media.giphy.com/media/Y01jP8F5EjAqEqZeww/giphy.gif" width="300px">
+</p>
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F72585&size=22&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Profile!;Passionate+Software+Developer;DSA+Enthusiast+%7C+AI+%7C+ML;Open+Source+Contributor;Lifelong+Learner!+%F0%9F%9A%80)
 
 ---
@@ -16,32 +20,28 @@
 
 ## 🔥 Tech Stack & Skills
 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,c,cpp,python,javascript,html,css,bootstrap,tailwind,git,github,vscode" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-![Yashodip's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashodipmore&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashodipmore&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yashodipmore&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashodipmore&theme=radical" />
+</p>
 
 ---
 
 ## 🏆 LeetCode & Coding Profiles
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/NonCSCoderIN?theme=dark&font=Montserrat)](https://leetcode.com/NonCSCoderIN/)
+<p align="center">
+  <a href="https://leetcode.com/NonCSCoderIN/">
+    <img src="https://leetcard.jacoblin.cool/NonCSCoderIN?theme=dark&font=Montserrat" />
+  </a>
+</p>
 
 [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/yashodipmore2004)
 [![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-1F8F59?style=for-the-badge&logo=GeeksforGeeks&logoColor=white)](https://www.geeksforgeeks.org/user/yashodipmore09/)
@@ -58,9 +58,10 @@
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yashodipmore22)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yashodipmore)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://github.com/yashodipmore)
+<p align="center">
+  <a href="https://linkedin.com/in/yashodipmore22"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/yashodipmore"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
 ---
 
