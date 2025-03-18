@@ -1,7 +1,7 @@
 ### Hi there, I'm Yashodip More! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 <p align="center">
-  <img src="assests/3d-rendering-cartoon-like-man-working-computer.jpg" width="300px">
+  <img src="[assests/3d-rendering-cartoon-like-man-working-computer.jpg](https://cdn3d.iconscout.com/3d/premium/thumb/coder-works-on-laptop-3d-illustration-download-in-png-blend-fbx-gltf-file-formats--online-work-conversation-remote-from-home-programmer-character-pack-professionals-illustrations-8949198.png?f=webp)" width="300px">
 </p>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F72585&size=22&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Profile!;Passionate+Software+Developer;DSA+Enthusiast+%7C+AI+%7C+ML;Open+Source+Contributor;Lifelong+Learner!+%F0%9F%9A%80)
