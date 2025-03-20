@@ -23,7 +23,7 @@
 ## 🔥 Tech Stack & Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,cpp,python,javascript,html,css,bootstrap,tailwind,react,nodejs,express,mysql,mongodb,git,github,vscode,linux,postman,docker" />
+  <img src="https://skillicons.dev/icons?i=,c,cpp,python,javascript,html,css,bootstrap,tailwind,react,nodejs,express,mysql,mongodb,git,github,vscode,linux,postman,docker" />
 </p>
 
 ---
