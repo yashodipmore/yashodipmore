@@ -1,5 +1,7 @@
 ### Hi there, I'm Yashodip More! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Software+Engineer+%7C+Developer;Open-Source+Contributor;Passionate+Learner)](https://git.io/typing-svg)
+
 <p align="center">
   <img src="https://cdn3d.iconscout.com/3d/premium/thumb/developer-doing-website-development-3d-illustration-download-in-png-blend-fbx-gltf-file-formats--web-coding-programming-remote-working-pack-business-illustrations-6648977.png" width="700px">
 </p>
