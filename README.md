@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yashodip More</h1>
-<h3 align="center">Aspiring Software Engineer | ML Intern @ IIT Ropar | C4GT Fellow @ Samagra | Passionate about Open Source & Tech for Good</h3>
+<h3 align="center">Aspiring Software Engineer | ML Intern @ IIT Ropar | C4GT DMP'25 Intern @ NSUT | Summer Intern @ Celebal Technologies | Passionate about Open Source & Tech for Good</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Tech+Enthusiast+%F0%9F%A4%96;DSA+Lover+%F0%9F%92%BB;Open+Source+Contributor+%F0%9F%93%9D;Machine+Learning+Explorer+%F0%9F%A7%AC;Electrical+Engineering+Student+%E2%9A%9B%EF%B8%8F" alt="Typing SVG" />
