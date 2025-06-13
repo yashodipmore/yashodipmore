@@ -1,6 +1,9 @@
-### Hi there, I'm Yashodip More! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+<h1 align="center">Hi 👋, I'm Yashodip More</h1>
+<h3 align="center">Aspiring Software Engineer | ML Intern @ IIT Ropar | C4GT Fellow @ Samagra | Passionate about Open Source & Tech for Good</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Software+Engineer+%7C+Developer;Open-Source+Contributor;Passionate+Learner)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Tech+Enthusiast+%F0%9F%A4%96;DSA+Lover+%F0%9F%92%BB;Open+Source+Contributor+%F0%9F%93%9D;Machine+Learning+Explorer+%F0%9F%A7%AC;Electrical+Engineering+Student+%E2%9A%9B%EF%B8%8F" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <img src="https://cdn3d.iconscout.com/3d/premium/thumb/developer-doing-website-development-3d-illustration-download-in-png-blend-fbx-gltf-file-formats--web-coding-programming-remote-working-pack-business-illustrations-6648977.png" width="700px">
