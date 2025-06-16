@@ -78,9 +78,9 @@
 
 ## 🏆 LeetCode & Coding Profiles
 
-### 🔴 CodeChef Stats
+### 🔴 Leetcode Stats
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/yashodipmore?theme=dark&font=Karma&ext=contest)](https://leetcode.com/NonCsCoderIN)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/NonCSCoderIN?theme=dark&font=Karma&ext=contest)](https://leetcode.com/NonCSCoderIN)
 
 
 ---
