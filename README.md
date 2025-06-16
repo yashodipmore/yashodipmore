@@ -80,7 +80,7 @@
 
 ### 🔴 CodeChef Stats
 
-[![CodeChef Stats](https://codechef-readme-stats.vercel.app/api/user?username=yashodipmore)](https://www.codechef.com/users/yashodipmore)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/yashodipmore?theme=dark&font=Karma&ext=contest)](https://leetcode.com/NonCsCoderIN)
 
 
 ---
