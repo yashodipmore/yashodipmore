@@ -12,6 +12,19 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F72585&size=22&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Profile!;Passionate+Software+Developer;DSA+Enthusiast+%7C+AI+%7C+ML;Open+Source+Contributor;Lifelong+Learner!+%F0%9F%9A%80)
 
 ---
+## 🚀 Competitive Programming Profiles
+
+| Platform     | Profile Link                                                                 |
+|--------------|-------------------------------------------------------------------------------|
+| 🟨 LeetCode   | [LeetCode](https://leetcode.com/YOUR_USERNAME)                               |
+| 🔵 Codeforces | [Codeforces](https://codeforces.com/profile/YOUR_USERNAME)                   |
+| 🔴 CodeChef   | [CodeChef](https://www.codechef.com/users/YOUR_USERNAME)                     |
+| 🟢 GFG        | [GeeksforGeeks](https://auth.geeksforgeeks.org/user/YOUR_USERNAME/practice) |
+| 🟣 AtCoder    | [AtCoder](https://atcoder.jp/users/YOUR_USERNAME)                            |
+| 🟡 HackerRank | [HackerRank](https://www.hackerrank.com/YOUR_USERNAME)                       |
+| 🔵 HackerEarth| [HackerEarth](https://www.hackerearth.com/@YOUR_USERNAME)                    |
+
+---
 
 ## 🚀 About Me
 
