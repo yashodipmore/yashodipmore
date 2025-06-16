@@ -102,14 +102,46 @@ Solving real-world problems with clean code, data-driven insights, and scalable 
 
 ---
 
-## 🚀 My Projects
+## 🌍 Open Source Contributions
 
-📌 [**Algorithm Visualizer**](https://github.com/yashodipmore/Algorithm-Explorer) - A web app for visualizing sorting algorithms with real-time tracking.  
-📌 [**DeeFace Recognizer**](https://github.com/yashodipmore/FaceRecognitionSystem) - A real-time face recognition system using deep learning.  
-📌 [**Notepad**](https://github.com/yashodipmore/Notepad---NonCSCoder) - A functional text editor with an intuitive UI built using Java Swing.  
-📌 [**MemoryAlloc**](https://github.com/yashodipmore/MemoryAlloc) - Custom Linux Heap Memory Manager written in C.  
-📌 [**Eduward**](https://github.com/yashodipmore/eduward) - A comprehensive e-learning platform with AI-powered features.
+<p align="left">
 
+<!-- Hacktoberfest -->
+<a href="https://hacktoberfest.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Hacktoberfest-FF4500?style=for-the-badge&logo=github&logoColor=white" alt="Hacktoberfest Badge" />
+</a>
+
+<!-- SSOC -->
+<a href="https://ssoc.devfolio.co/" target="_blank">
+  <img src="https://img.shields.io/badge/SSOC-00BC8C?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="SSOC Badge" />
+</a>
+
+<!-- GSSoC -->
+<a href="https://gssoc.girlscript.tech/" target="_blank">
+  <img src="https://img.shields.io/badge/GSSoC-F50057?style=for-the-badge&logo=gitbook&logoColor=white" alt="GSSoC Badge" />
+</a>
+
+<!-- C4GT (DMP) -->
+<a href="https://c4gt.dev/" target="_blank">
+  <img src="https://img.shields.io/badge/C4GT-DMP-7342F5?style=for-the-badge&logo=ethereum&logoColor=white" alt="C4GT DMP Badge" />
+</a>
+
+<!-- Processing Foundation -->
+<a href="https://processingfoundation.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Processing%20Foundation-000000?style=for-the-badge&logo=processingfoundation&logoColor=white" alt="Processing Foundation Badge" />
+</a>
+
+<!-- Layer5 -->
+<a href="https://layer5.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Layer5-3B82F6?style=for-the-badge&logo=layer5&logoColor=white" alt="Layer5 Badge" />
+</a>
+
+<!-- Keploy -->
+<a href="https://github.com/keploy" target="_blank">
+  <img src="https://img.shields.io/badge/Keploy-5A3FD1?style=for-the-badge&logo=github&logoColor=white" alt="Keploy Badge" />
+</a>
+
+</p>
 ---
 
 ## 🌐 Connect With Me
