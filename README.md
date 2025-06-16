@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://cdn3d.iconscout.com/3d/premium/thumb/developer-doing-website-development-3d-illustration-download-in-png-blend-fbx-gltf-file-formats--web-coding-programming-remote-working-pack-business-illustrations-6648977.png" width="500px">
+  <img src="https://cdn3d.iconscout.com/3d/premium/thumb/developer-doing-website-development-3d-illustration-download-in-png-blend-fbx-gltf-file-formats--web-coding-programming-remote-working-pack-business-illustrations-6648977.png" width="400px">
 </p>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F72585&size=22&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Profile!;Passionate+Software+Developer;DSA+Enthusiast+%7C+AI+%7C+ML;Open+Source+Contributor;Lifelong+Learner!+%F0%9F%9A%80)
