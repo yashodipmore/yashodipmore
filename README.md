@@ -14,15 +14,13 @@
 ---
 ## 🚀 Competitive Programming Profiles
 
-| Platform     | Profile Link                                                                 |
-|--------------|-------------------------------------------------------------------------------|
-| 🟨 LeetCode   | [LeetCode](https://leetcode.com/YOUR_USERNAME)                               |
-| 🔵 Codeforces | [Codeforces](https://codeforces.com/profile/YOUR_USERNAME)                   |
-| 🔴 CodeChef   | [CodeChef](https://www.codechef.com/users/YOUR_USERNAME)                     |
-| 🟢 GFG        | [GeeksforGeeks](https://auth.geeksforgeeks.org/user/YOUR_USERNAME/practice) |
-| 🟣 AtCoder    | [AtCoder](https://atcoder.jp/users/YOUR_USERNAME)                            |
-| 🟡 HackerRank | [HackerRank](https://www.hackerrank.com/YOUR_USERNAME)                       |
-| 🔵 HackerEarth| [HackerEarth](https://www.hackerearth.com/@YOUR_USERNAME)                    |
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/YOUR_USERNAME)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/YOUR_USERNAME)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/YOUR_USERNAME)
+[![GFG](https://img.shields.io/badge/GeeksforGeeks-28A745?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/YOUR_USERNAME/practice)
+[![AtCoder](https://img.shields.io/badge/AtCoder-1F8ACB?style=for-the-badge)](https://atcoder.jp/users/YOUR_USERNAME)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/YOUR_USERNAME)
+[![HackerEarth](https://img.shields.io/badge/HackerEarth-323754?style=for-the-badge&logo=hackerearth&logoColor=white)](https://www.hackerearth.com/@YOUR_USERNAME)
 
 ---
 
