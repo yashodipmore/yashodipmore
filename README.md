@@ -12,7 +12,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F72585&size=22&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Profile!;Passionate+Software+Developer;DSA+Enthusiast+%7C+AI+%7C+ML;Open+Source+Contributor;Lifelong+Learner!+%F0%9F%9A%80)
 
 ---
-## 🚀 Competitive Programming Profiles
+## Competitive Programming Profiles
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/YOUR_USERNAME)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/YOUR_USERNAME)
@@ -22,7 +22,7 @@
 
 ---
 
-## 🙋‍♂️ About Me
+## About Me
 
 Hi, I'm **Yashodip More**, an Electrical Engineering undergraduate passionate about **software development**, **machine learning**, and **blockchain technologies**. I love building scalable systems, working with AI/ML models, and contributing to open-source communities.
 
