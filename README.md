@@ -24,15 +24,34 @@
 
 ---
 
-## 🚀 About Me
+## 🙋‍♂️ About Me
 
-🎓 **Electrical Engineering** student at **R.C. Patel Institute Of Technology, Shirpur**  
-💡 Passionate about **Software Development, AI/ML, and Open Source**  
-🏆 **800+ DSA Problems Solved** across LeetCode, GeeksforGeeks, and HackerRank  
-🎯 **LeetCode Max Rating: 1700+** | **Global Rank: 1343/34,000+ in Weekly Contest**  
-👨‍💻 **Actively Contributing to Open-Source Projects**  
-🌱 Currently Learning **System Design & Advanced DSA**  
-📫 Reach me at **yashodipmore2004@gmail.com**
+Hi, I'm **Yashodip More**, an Electrical Engineering undergraduate passionate about **software development**, **machine learning**, and **blockchain technologies**. I love building scalable systems, working with AI/ML models, and contributing to open-source communities.
+
+🔹 I'm currently a **Open Source Developer** at Code For GovTech, developing secure and decentralized dApps using **Solidity, Chainlink CCIP, Lit Protocol**, and more.
+
+🔹 I'm also a **Machine Learning Intern** at Annam.AI (IIT Ropar), where I design robust soil classification models using **CNNs** and traditional ML techniques.
+
+🔹 My summer internship at **Celebal Technologies** has given me experience in handling large-scale datasets, developing image classification pipelines, and optimizing deep learning models.
+
+---
+
+ **What drives me?**  
+Solving real-world problems with clean code, data-driven insights, and scalable architectures. Whether it's writing efficient algorithms for CP or building smart contracts, I’m always ready to dive deep and learn.
+
+---
+
+ **Fun facts:**
+
+- 1000+ DSA problems solved with a 200+ day streak  
+- Ranked Top 100 in multiple CodeChef global contests  
+- Built my own custom Linux mini OS  
+- I love working in public and mentoring peers in DSA
+
+---
+
+🔗 Let’s connect on [LinkedIn](https://linkedin.com/in/yashodipmore22) or explore my [Portfolio](https://yashodipmore.me)!
+
 
 ---
 
