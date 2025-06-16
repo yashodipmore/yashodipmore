@@ -78,14 +78,10 @@
 
 ## 🏆 LeetCode & Coding Profiles
 
-<p align="center">
-  <a href="https://leetcode.com/NonCSCoderIN/">
-    <img src="https://leetcard.jacoblin.cool/NonCSCoderIN?theme=dark&font=Montserrat" />
-  </a>
-</p>
+### 🔴 CodeChef Stats
 
-[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/yashodipmore2004)
-[![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-1F8F59?style=for-the-badge&logo=GeeksforGeeks&logoColor=white)](https://www.geeksforgeeks.org/user/yashodipmore09/)
+[![CodeChef Stats](https://codechef-readme-stats.vercel.app/api/user?username=yashodipmore)](https://www.codechef.com/users/yashodipmore)
+
 
 ---
 
