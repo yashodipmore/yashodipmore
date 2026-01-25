@@ -19,7 +19,7 @@
 
 | Organization | Role | Duration | Stipend | Impact |
 |--------------|------|----------|---------|--------|
-| **Dunnhumby** | Software Engineering Intern | Feb 2026 - Aug 2026 | ₹25,000/mo | Present |
+| **Dunnhumby** | Intern | Incomming  | - | Present |
 | **RISC-V International** | LFX Mentorship Program | Sep - Nov 2025 | Open Source | Toolchain Automation |
 | **Code For GovTech @ NSUT** | C4GT DMP 2025 Intern | Jun - Aug 2025 | ₹1,00,000 | 94 from 55K+ |
 | **Annam.AI @ IIT Ropar** | AI Research Intern (Lead) | May - Jul 2025 | ₹15,000/mo | Led 5-member team |
