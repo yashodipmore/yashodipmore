@@ -16,7 +16,7 @@
 
 | Organization | Role | Duration | Stipend | Key Highlights |
 |--------------|------|----------|---------|----------------|
-| **Dunnhumby** | Software Engineering Intern | Feb 2026 - Aug 2026 | - | Present - Retail Analytics & Data Science |
+| **Dunnhumby** | Software Engineering Intern | Incomming | - | Present - Retail Analytics & Data Science |
 | **RISC-V International** | LFX Mentorship Program | Sep 2025 - Nov 2025 | Open Source | Automated toolchain pipeline development |
 | **Code For GovTech (NSUT)** | C4GT DMP 2025 Intern | Jun 2025 - Aug 2025 | ₹1,00,000 | 94 selected from 55,000+ applicants |
 | **Annam.AI (IIT Ropar)** | AI Research Intern (Project Lead) | May 2025 - Jul 2025 | ₹15,000/month | Led 5-member team on AgriWaste2Fuel |
