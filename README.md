@@ -1,50 +1,148 @@
-<h1 align="center">Hi 👋, I'm Yashodip More</h1>
+<div align="center">
 
-<h3 align="center">Software Engineer | LFX Mentee @ RISC-V International | C4GT DMP'25 | AI Research @ IIT Ropar | Competitive Programmer</h3>
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> YASHODIP MORE
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F72585&center=true&vCenter=true&width=800&lines=Software+Engineering+Intern+%40+Dunnhumby;LeetCode+Rating+1675+%7C+400%2B+Problems+Solved;Hackathon+Winner+%7C+%E2%82%B94%2C00%2C000%2B+Prize+Money;Open+Source+Contributor+%7C+LFX+Mentee;Building+Scalable+AI+Solutions" alt="Typing SVG" />
-</p>
+### <samp>Software Engineer | Competitive Programmer | Open Source Enthusiast</samp>
 
-<p align="center">
-  <img src="https://cdn3d.iconscout.com/3d/premium/thumb/developer-doing-website-development-3d-illustration-download-in-png-blend-fbx-gltf-file-formats--web-coding-programming-remote-working-pack-business-illustrations-6648977.png" width="450px">
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=900&lines=Software+Engineering+Intern+%40+Dunnhumby+Gurugram;LeetCode+1675+Rating+%7C+400%2B+Problems+Solved;Hackathon+Winner+%7C+₹4%2C00%2C000%2B+Prize+Money;LFX+Mentee+%40+RISC-V+International;C4GT+DMP+2025+%7C+AI+Research+%40+IIT+Ropar" alt="Typing SVG" />
 
----
+<img src="https://cdn3d.iconscout.com/3d/premium/thumb/developer-doing-website-development-3d-illustration-download-in-png-blend-fbx-gltf-file-formats--web-coding-programming-remote-working-pack-business-illustrations-6648977.png" width="420px">
 
-## Professional Experience
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yashodipmore22)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://yashodipmore.me)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/NonCSCoderIN)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:yashodipmore2004@gmail.com)
 
-| Organization | Role | Duration | Stipend | Key Highlights |
-|--------------|------|----------|---------|----------------|
-| **Dunnhumby** | Software Engineering Intern | Incomming | - | Present - Retail Analytics & Data Science |
-| **RISC-V International** | LFX Mentorship Program | Sep 2025 - Nov 2025 | Open Source | Automated toolchain pipeline development |
-| **Code For GovTech (NSUT)** | C4GT DMP 2025 Intern | Jun 2025 - Aug 2025 | ₹1,00,000 | 94 selected from 55,000+ applicants |
-| **Annam.AI (IIT Ropar)** | AI Research Intern (Project Lead) | May 2025 - Jul 2025 | ₹15,000/month | Led 5-member team on AgriWaste2Fuel |
-| **Celebal Technologies** | Summer Intern | May 2025 - Jun 2025 | - | Full-stack software development |
+</div>
 
 ---
 
-## Achievements & Hackathons
+<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28px"> Professional Experience</h2>
 
-### Major Wins
+<table>
+<thead>
+<tr>
+<th width="25%" style="background: linear-gradient(to right, #667eea 0%, #764ba2 100%);">🏢 Organization</th>
+<th width="28%" style="background: linear-gradient(to right, #667eea 0%, #764ba2 100%);">👨‍💻 Role</th>
+<th width="17%" style="background: linear-gradient(to right, #667eea 0%, #764ba2 100%);">📅 Duration</th>
+<th width="12%" style="background: linear-gradient(to right, #667eea 0%, #764ba2 100%);">💰 Stipend</th>
+<th width="18%" style="background: linear-gradient(to right, #667eea 0%, #764ba2 100%);">⭐ Impact</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><b>Dunnhumby</b></td>
+<td>Software Engineering Intern</td>
+<td>Feb 2026 - Aug 2026</td>
+<td><b>₹25K/mo</b></td>
+<td><code>Present</code></td>
+</tr>
+<tr>
+<td><b>RISC-V International</b></td>
+<td>LFX Mentorship Program</td>
+<td>Sep 2025 - Nov 2025</td>
+<td>Open Source</td>
+<td>Toolchain Automation</td>
+</tr>
+<tr>
+<td><b>Code For GovTech</b><br/><sub>@ NSUT Delhi</sub></td>
+<td>C4GT DMP 2025 Intern</td>
+<td>Jun 2025 - Aug 2025</td>
+<td><b>₹1,00,000</b></td>
+<td>94 from 55K+ applicants</td>
+</tr>
+<tr>
+<td><b>Annam.AI</b><br/><sub>@ IIT Ropar</sub></td>
+<td>AI Research Intern (Lead)</td>
+<td>May 2025 - Jul 2025</td>
+<td><b>₹15K/mo</b></td>
+<td>Led 5-member team</td>
+</tr>
+<tr>
+<td><b>Celebal Technologies</b></td>
+<td>Summer Intern</td>
+<td>May 2025 - Jun 2025</td>
+<td>-</td>
+<td>Full-Stack Development</td>
+</tr>
+</tbody>
+</table>
 
-| Event | Organizer | Achievement | Prize Money / Recognition |
-|-------|-----------|-------------|---------------------------|
-| **Annam.AI Hackathon** | IIT Ropar | 3rd Place among 100+ teams | ₹3,00,000 + Phase II Research Funding |
-| **GSMA Open Gateway Hackathon** | Nokia | Rank 4th in Top 10 Finalists | Selected from 1,800+ teams |
-| **Launchly Project Sprint** | Devpost | 3rd Place Winner | $100 USD + Balsamiq Code License |
-| **IICPC CodeFest'25 Prelims** | IIT Madras | Global Rank 121 | Top 0.3% among 45,000+ participants |
-| **Globathon** | Globatech Group, Pune | Top 8 Finalist | Selected from 200+ teams |
-| **Tesco Retail Media InnovAItion Jam** | Tesco | Top 8 Finalist | Selected from 8,000+ participants |
-| **Fynd Hacktimus 2025** | Fynd | Finalist | Top Teams Selection |
+<br/>
 
-**Total Prize Money & Stipends: ₹4,00,000+**
+<h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Achievements & Hackathons</h2>
+
+### <samp>🏆 Major Wins & Recognition</samp>
+
+<table>
+<thead>
+<tr>
+<th width="28%">🎯 Event</th>
+<th width="20%">🏛️ Organizer</th>
+<th width="22%">🥇 Achievement</th>
+<th width="30%">💵 Prize / Recognition</th>
+</tr>
+</thead>
+<tbody>
+<tr style="background-color: #FFF9E6;">
+<td><b>Annam.AI Hackathon</b></td>
+<td>IIT Ropar</td>
+<td><b>🥉 3rd Place</b><br/><sub>100+ teams</sub></td>
+<td><b style="color: #2E7D32;">₹3,00,000</b><br/><sub>+ Phase II Research Funding</sub></td>
+</tr>
+<tr>
+<td><b>GSMA Open Gateway</b></td>
+<td>Nokia</td>
+<td><b>🏅 Rank 4 in Top 10</b><br/><sub>1,800+ teams</sub></td>
+<td><b>Top Finalist</b></td>
+</tr>
+<tr style="background-color: #E8F5E9;">
+<td><b>Launchly Project Sprint</b></td>
+<td>Devpost</td>
+<td><b>🥉 3rd Place</b></td>
+<td><b style="color: #1565C0;">$100 USD</b><br/><sub>+ Balsamiq License</sub></td>
+</tr>
+<tr>
+<td><b>IICPC CodeFest'25</b></td>
+<td>IIT Madras</td>
+<td><b>🌍 Global Rank 121</b><br/><sub>45,000+ participants</sub></td>
+<td><b>Top 0.3%</b></td>
+</tr>
+<tr>
+<td><b>Globathon</b></td>
+<td>Globatech, Pune</td>
+<td><b>Top 8 Finalist</b><br/><sub>200+ teams</sub></td>
+<td>Finalist Recognition</td>
+</tr>
+<tr>
+<td><b>Tesco InnovAItion Jam</b></td>
+<td>Tesco</td>
+<td><b>Top 8 Finalist</b><br/><sub>8,000+ participants</sub></td>
+<td>Finalist Recognition</td>
+</tr>
+<tr>
+<td><b>Fynd Hacktimus 2025</b></td>
+<td>Fynd</td>
+<td><b>Finalist</b></td>
+<td>Top Teams Selection</td>
+</tr>
+</tbody>
+</table>
+
+<div align="center">
+<h3><samp>💎 Total Earnings: ₹4,00,000+ (Prize Money + Stipends)</samp></h3>
+</div>
+
+<br/>
 
 ---
 
-## Technical Skills
+<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28px"> Technical Arsenal</h2>
 
-### Languages
+<details open>
+<summary><b><samp>💾 Languages</samp></b></summary>
+<br/>
+
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -54,7 +152,12 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### Web Development
+</details>
+
+<details open>
+<summary><b><samp>🌐 Web Development</samp></b></summary>
+<br/>
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -64,7 +167,12 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### Machine Learning & AI
+</details>
+
+<details open>
+<summary><b><samp>🤖 Machine Learning & AI</samp></b></summary>
+<br/>
+
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -73,7 +181,12 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NLTK](https://img.shields.io/badge/NLTK-CCBB44?style=for-the-badge&logoColor=black)
 
-### Tools & Technologies
+</details>
+
+<details open>
+<summary><b><samp>🛠️ Tools & DevOps</samp></b></summary>
+<br/>
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -86,97 +199,92 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+</details>
+
+<br/>
+
 ---
 
-## Competitive Programming
+<h2><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="32px"> Competitive Programming</h2>
 
-<p align="center">
-  <img src="https://cdn3d.iconscout.com/3d/premium/thumb/developer-3d-icon-download-in-png-blend-fbx-gltf-file-formats--programmer-coder-coding-programming-pack-science-technology-icons-7212545.png?f=webp" width="300px">
-</p>
+<div align="center">
+<img src="https://cdn3d.iconscout.com/3d/premium/thumb/developer-3d-icon-download-in-png-blend-fbx-gltf-file-formats--programmer-coder-coding-programming-pack-science-technology-icons-7212545.png?f=webp" width="280px">
+</div>
 
-### LeetCode Stats
+### <samp>📊 LeetCode Stats</samp>
+
+<div align="center">
+
 [![LeetCode Stats](https://leetcard.jacoblin.cool/NonCSCoderIN?theme=dark&font=Karma&ext=contest)](https://leetcode.com/NonCSCoderIN)
 
-### Codeforces
+</div>
+
+### <samp>🔥 Codeforces</samp>
+
+<div align="center">
+
 [![Codeforces](https://cf.leed.at?id=yashodipmore2004)](https://codeforces.com/profile/yashodipmore2004)
 
-### Key Stats
-- **LeetCode:** Rating 1675 | 400+ Problems Solved | 200+ Day Streak
-- **CodeChef:** 3-Star (Peak Rating: 1782) | Top 6% Globally
-- **IICPC CodeFest'25:** Global Rank 121 out of 45,000+ participants
+</div>
+
+### <samp>🎯 Competitive Programming Highlights</samp>
+
+- **LeetCode:** `1675 Rating` • `400+ Problems Solved` • `200+ Day Streak`
+- **CodeChef:** `⭐⭐⭐ 3-Star` • `Peak Rating: 1782` • `Top 6% Globally`
+- **IICPC CodeFest'25:** `Global Rank 121` out of `45,000+ participants`
+
+<br/>
 
 ---
 
-## Open Source Contributions
+<h2><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32px"> Open Source Contributions</h2>
 
-<p align="left">
-<a href="https://summerofcode.withgoogle.com/" target="_blank">
-  <img src="https://img.shields.io/badge/LFX-RISC--V-663399?style=for-the-badge&logo=linux&logoColor=white" alt="LFX Badge" />
-</a>
-<a href="https://c4gt.dev/" target="_blank">
-  <img src="https://img.shields.io/badge/C4GT-DMP%202025-7342F5?style=for-the-badge&logo=ethereum&logoColor=white" alt="C4GT DMP Badge" />
-</a>
-<a href="https://gssoc.girlscript.tech/" target="_blank">
-  <img src="https://img.shields.io/badge/GSSoC-F50057?style=for-the-badge&logo=gitbook&logoColor=white" alt="GSSoC Badge" />
-</a>
-<a href="https://ssoc.devfolio.co/" target="_blank">
-  <img src="https://img.shields.io/badge/SSOC-00BC8C?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="SSOC Badge" />
-</a>
-<a href="https://hacktoberfest.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Hacktoberfest-FF4500?style=for-the-badge&logo=github&logoColor=white" alt="Hacktoberfest Badge" />
-</a>
-<a href="https://processingfoundation.org/" target="_blank">
-  <img src="https://img.shields.io/badge/Processing%20Foundation-000000?style=for-the-badge&logo=processingfoundation&logoColor=white" alt="Processing Foundation Badge" />
-</a>
-<a href="https://layer5.io/" target="_blank">
-  <img src="https://img.shields.io/badge/Layer5-3B82F6?style=for-the-badge&logo=layer5&logoColor=white" alt="Layer5 Badge" />
-</a>
-<a href="https://github.com/keploy" target="_blank">
-  <img src="https://img.shields.io/badge/Keploy-5A3FD1?style=for-the-badge&logo=github&logoColor=white" alt="Keploy Badge" />
-</a>
-</p>
+<div align="center">
+
+[![LFX](https://img.shields.io/badge/LFX_Mentee-RISC--V-663399?style=for-the-badge&logo=linux&logoColor=white)](https://mentorship.lfx.linuxfoundation.org/)
+[![C4GT](https://img.shields.io/badge/C4GT-DMP_2025-7342F5?style=for-the-badge&logo=ethereum&logoColor=white)](https://c4gt.dev/)
+[![GSSoC](https://img.shields.io/badge/GSSoC-Contributor-F50057?style=for-the-badge&logo=gitbook&logoColor=white)](https://gssoc.girlscript.tech/)
+[![SSOC](https://img.shields.io/badge/SSOC-Contributor-00BC8C?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](https://ssoc.devfolio.co/)
+[![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-Participant-FF4500?style=for-the-badge&logo=github&logoColor=white)](https://hacktoberfest.com/)
+
+</div>
+
+<br/>
 
 ---
 
-## GitHub Statistics
+<h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32px"> GitHub Analytics</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashodipmore&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashodipmore&theme=radical&hide_border=true" alt="GitHub Streak" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yashodipmore&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yashodipmore&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yashodipmore&theme=radical" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yashodipmore&theme=radical" alt="Most Commit Language" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashodipmore&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
-## Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/yashodipmore22" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/yashodipmore" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:yashodipmore2004@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://yashodipmore.me" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yashodipmore&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-</p>
+<br/>
 
 ---
 
 <div align="center">
-  <img src="https://cdn3d.iconscout.com/3d/premium/thumb/software-engineer-3d-illustration-download-in-png-blend-fbx-gltf-file-formats--developer-programmer-coding-pack-science-technology-illustrations-4632679.png?f=webp" width="250px">
-  
-  **"Building scalable solutions, one commit at a time."**
+
+<img src="https://cdn3d.iconscout.com/3d/premium/thumb/software-engineer-3d-illustration-download-in-png-blend-fbx-gltf-file-formats--developer-programmer-coding-pack-science-technology-illustrations-4632679.png?f=webp" width="240px">
+
+### <samp>💼 Let's Connect and Build Something Amazing!</samp>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yashodipmore22)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yashodipmore)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://yashodipmore.me)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:yashodipmore2004@gmail.com)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=yashodipmore&color=blueviolet&style=for-the-badge)
+
+<br/>
+
+### <samp>✨ "Code. Create. Conquer." ✨</samp>
+
 </div>
