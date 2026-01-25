@@ -4,8 +4,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=900&lines=Software+Engineer+%7C+Competitive+Programmer;LFX+Mentee+%40+RISC-V+International;C4GT+DMP+2025+%7C+AI+Research+%40+IIT+Ropar;%E2%82%B94%2C00%2C000%2B+in+Prize+Money+%26+Stipends;Building+Scalable+AI-Powered+Solutions" alt="Typing SVG" />
 
-<img src="https://cdn3d.iconscout.com/3d/premium/thumb/developer-doing-website-development-3d-illustration-download-in-png-blend-fbx-gltf-file-formats--web-coding-programming-remote-working-pack-business-illustrations-6648977.png" width="350px">
-
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yashodipmore22)
@@ -19,133 +17,35 @@
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="28" /> Professional Experience
 
-<div align="center">
-<img src="https://cdn3d.iconscout.com/3d/premium/thumb/developer-5559727-4652606.png?f=webp" width="280px">
-</div>
-
-<table>
-<thead align="center">
-<tr border: none;>
-<td><b>🏢 Organization</b></td>
-<td><b>👨‍💻 Role</b></td>
-<td><b>📅 Duration</b></td>
-<td><b>💰 Stipend</b></td>
-<td><b>⭐ Impact</b></td>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><b>Dunnhumby</b></td>
-<td>Software Engineering Intern</td>
-<td>Feb - Aug 2026</td>
-<td><code>₹25K/mo</code></td>
-<td><b>Present</b></td>
-</tr>
-<tr>
-<td><b>RISC-V International</b></td>
-<td>LFX Mentorship Program</td>
-<td>Sep - Nov 2025</td>
-<td><code>Open Source</code></td>
-<td>Toolchain Automation</td>
-</tr>
-<tr>
-<td><b>Code For GovTech</b><br/><sub>@ NSUT Delhi</sub></td>
-<td>C4GT DMP 2025 Intern</td>
-<td>Jun - Aug 2025</td>
-<td><code>₹1,00,000</code></td>
-<td>94 from 55K+</td>
-</tr>
-<tr>
-<td><b>Annam.AI</b><br/><sub>@ IIT Ropar</sub></td>
-<td>AI Research Intern (Lead)</td>
-<td>May - Jul 2025</td>
-<td><code>₹15K/mo</code></td>
-<td>Led 5-member team</td>
-</tr>
-<tr>
-<td><b>Celebal Technologies</b></td>
-<td>Summer Intern</td>
-<td>May - Jun 2025</td>
-<td>-</td>
-<td>Full-Stack Dev</td>
-</tr>
-</tbody>
-</table>
+| Organization | Role | Duration | Stipend | Impact |
+|--------------|------|----------|---------|--------|
+| **Dunnhumby** | Software Engineering Intern | Feb 2026 - Aug 2026 | ₹25,000/mo | Present |
+| **RISC-V International** | LFX Mentorship Program | Sep - Nov 2025 | Open Source | Toolchain Automation |
+| **Code For GovTech @ NSUT** | C4GT DMP 2025 Intern | Jun - Aug 2025 | ₹1,00,000 | 94 from 55K+ |
+| **Annam.AI @ IIT Ropar** | AI Research Intern (Lead) | May - Jul 2025 | ₹15,000/mo | Led 5-member team |
+| **Celebal Technologies** | Summer Intern | May - Jun 2025 | - | Full-Stack Dev |
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="28" /> Achievements & Hackathons
 
-<div align="center">
-<img src="https://cdn3d.iconscout.com/3d/premium/thumb/trophy-3d-illustration-download-in-png-blend-fbx-gltf-file-formats--achievement-award-winner-prize-competition-pack-school-education-illustrations-4561283.png?f=webp" width="280px">
-</div>
-
-<table>
-<thead align="center">
-<tr border: none;>
-<td><b>🎯 Event</b></td>
-<td><b>🏛️ Organizer</b></td>
-<td><b>🏆 Achievement</b></td>
-<td><b>💵 Prize / Recognition</b></td>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><b>Annam.AI Hackathon</b></td>
-<td>IIT Ropar</td>
-<td>🥉 <b>3rd Place</b><br/><sub>100+ teams</sub></td>
-<td><b>₹3,00,000</b><br/><sub>+ Phase II Funding</sub></td>
-</tr>
-<tr>
-<td><b>GSMA Open Gateway</b></td>
-<td>Nokia</td>
-<td>🌟 <b>Rank 4 in Top 10</b><br/><sub>1,800+ teams</sub></td>
-<td><b>Elite Finalist</b></td>
-</tr>
-<tr>
-<td><b>Launchly Project Sprint</b></td>
-<td>Devpost</td>
-<td>🥉 <b>3rd Place</b></td>
-<td><b>$100 USD</b><br/><sub>+ Balsamiq License</sub></td>
-</tr>
-<tr>
-<td><b>IICPC CodeFest'25</b></td>
-<td>IIT Madras</td>
-<td>🌍 <b>Global Rank 121</b><br/><sub>45,000+ participants</sub></td>
-<td><b>Top 0.3%</b></td>
-</tr>
-<tr>
-<td><b>Globathon</b></td>
-<td>Globatech, Pune</td>
-<td><b>Top 8 Finalist</b><br/><sub>200+ teams</sub></td>
-<td>Finalist Recognition</td>
-</tr>
-<tr>
-<td><b>Tesco InnovAItion Jam</b></td>
-<td>Tesco</td>
-<td><b>Top 8 Finalist</b><br/><sub>8,000+ participants</sub></td>
-<td>Finalist Recognition</td>
-</tr>
-<tr>
-<td><b>Fynd Hacktimus 2025</b></td>
-<td>Fynd</td>
-<td><b>Finalist</b></td>
-<td>Top Teams</td>
-</tr>
-</tbody>
-</table>
+| Event | Organizer | Achievement | Prize / Recognition |
+|-------|-----------|-------------|---------------------|
+| **Annam.AI Hackathon** | IIT Ropar | 🥉 3rd Place (100+ teams) | **₹3,00,000** + Phase II Funding |
+| **GSMA Open Gateway** | Nokia | 🌟 Rank 4 in Top 10 (1,800+ teams) | Elite Finalist |
+| **Launchly Project Sprint** | Devpost | 🥉 3rd Place | **$100 USD** + Balsamiq License |
+| **IICPC CodeFest'25** | IIT Madras | 🌍 Global Rank 121 (45K+ participants) | Top 0.3% |
+| **Globathon** | Globatech, Pune | Top 8 Finalist (200+ teams) | Finalist |
+| **Tesco InnovAItion Jam** | Tesco | Top 8 Finalist (8K+ participants) | Finalist |
+| **Fynd Hacktimus 2025** | Fynd | Finalist | Top Teams |
 
 <div align="center">
-<h3>💎 Total Earnings: ₹4,00,000+ (Prize Money + Stipends) 💎</h3>
+<h3>💎 Total Earnings: ₹4,00,000+ 💎</h3>
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"/> Tech Stack
-
-<div align="center">
-<img src="https://cdn3d.iconscout.com/3d/premium/thumb/coding-3d-illustration-download-in-png-blend-fbx-gltf-file-formats--developer-programming-pack-seo-web-illustrations-4497375.png?f=webp" width="300px">
-</div>
 
 ### Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -181,51 +81,20 @@
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28"/> Competitive Programming
 
 <div align="center">
-<img src="https://cdn3d.iconscout.com/3d/premium/thumb/programmer-3d-illustration-download-in-png-blend-fbx-gltf-file-formats--developer-coding-programming-pack-science-technology-illustrations-4632675.png?f=webp" width="280px">
-</div>
-
-<table>
-<thead align="center">
-<tr>
-<td colspan="2"><b>📊 LeetCode Performance</b></td>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td colspan="2">
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/NonCSCoderIN?theme=dark&font=Karma&ext=contest)](https://leetcode.com/NonCSCoderIN)
 
-</td>
-</tr>
-<tr>
-<td colspan="2"><b>🔥 Codeforces</b></td>
-</tr>
-<tr>
-<td colspan="2">
-
 [![Codeforces](https://cf.leed.at?id=yashodipmore2004)](https://codeforces.com/profile/yashodipmore2004)
 
-</td>
-</tr>
-</tbody>
-</table>
-
-<div align="center">
-
-**LeetCode:** Rating `1675` • `400+` Problems • `200+` Day Streak  
-**CodeChef:** ⭐⭐⭐ 3-Star • Peak `1782` • Top `6%` Globally  
-**IICPC CodeFest'25:** Global Rank `121 / 45,000+`
+**LeetCode:** Rating 1675 • 400+ Problems • 200+ Day Streak  
+**CodeChef:** ⭐⭐⭐ 3-Star (Peak: 1782) • Top 6% Globally  
+**IICPC CodeFest'25:** Global Rank 121 / 45,000+
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"/> Open Source
-
-<div align="center">
-<img src="https://cdn3d.iconscout.com/3d/premium/thumb/open-source-3d-illustration-download-in-png-blend-fbx-gltf-file-formats--github-code-repository-pack-science-technology-illustrations-4497367.png?f=webp" width="280px">
-</div>
 
 <div align="center">
 
@@ -235,17 +104,13 @@
 [![SSOC](https://img.shields.io/badge/SSOC-Contributor-00BC8C?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](https://ssoc.devfolio.co/)
 [![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-Participant-FF4500?style=for-the-badge&logo=digitalocean&logoColor=white)](https://hacktoberfest.com/)
 
-**Contributing to:** Processing Foundation • Layer5 • Keploy
+Contributing to: **Processing Foundation • Layer5 • Keploy**
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"/> GitHub Analytics
-
-<div align="center">
-<img src="https://cdn3d.iconscout.com/3d/premium/thumb/github-3d-illustration-download-in-png-blend-fbx-gltf-file-formats--logo-brand-social-media-pack-logos-icons-5187243.png?f=webp" width="200px">
-</div>
 
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yashodipmore&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" />
@@ -259,10 +124,6 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="24" /> Let's Connect
-
-<div align="center">
-<img src="https://cdn3d.iconscout.com/3d/premium/thumb/contact-3d-illustration-download-in-png-blend-fbx-gltf-file-formats--phone-email-communication-pack-business-illustrations-4497427.png?f=webp" width="250px">
-</div>
 
 <div align="center">
 
